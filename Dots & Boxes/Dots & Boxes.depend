@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1640190808 source:c:\users\fcc\desktop\dots & boxes\main.c
+	<stdio.h>
+	"Game.h"
+
+1640179432 source:c:\users\fcc\desktop\dots & boxes\icon.rc
+
+1640180172 c:\users\fcc\desktop\dots & boxes\game.h
+	"AI.h"
+	"Save.h"
+	"Rank.h"
+	"Scan.h"
+
+1640191047 c:\users\fcc\desktop\dots & boxes\ai.h
+	<time.h>
+	<stdlib.h>
+
+1640130916 c:\users\fcc\desktop\dots & boxes\save.h
+	<windows.h>
+
+1640118451 c:\users\fcc\desktop\dots & boxes\rank.h
+
+1640189168 c:\users\fcc\desktop\dots & boxes\scan.h
+	<string.h>
+	<math.h>
+

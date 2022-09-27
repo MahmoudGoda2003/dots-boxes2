@@ -1,0 +1,14 @@
+Gametype: 2
+P1Name: 1
+P2Name: Computer
+Grid: 2
+
+counter: 0
+P1.score: 0
+P2.score: 0
+P1.moves: 0
+P2.moves: 0
+available_moves: 12
+seconds: 0
+player: 0
+
